@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubhpbx
+- 👋 Hi, I’m shubham 
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on one of the MAANG companies
